@@ -1,0 +1,54 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    margin-bottom: 50px;
+}
+
+.buy-now{
+    background-color: #252525;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+/*  Navbar */
+.navbar-brand img{
+    width: 150px;
+    margin-top: 5px;
+}
+
+/* Banner */
+.carousel-inner{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.carousel-indicators li {
+	height: 8px;
+    background-color: #ff6347;
+
+}
+
+/* Products */
+.card-heading a{
+    color: tomato;
+}
+
+.card{
+    border: none;
+    padding: 20px 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card h5{
+    font-weight: 600;
+}
+
+.card-footer{
+    border: none;
+    background: none;
+}
